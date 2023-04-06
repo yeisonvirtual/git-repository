@@ -1,4 +1,4 @@
-//Objeto creado para saludar
+//Objeto creado
 let holaMundo = {
 
 	toString: (nombre) => {
