@@ -1,4 +1,5 @@
 //Objeto creado
+//Otro comentario
 let holaMundo = {
 
 	toString: (nombre) => {
